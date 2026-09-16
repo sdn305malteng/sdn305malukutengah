@@ -631,7 +631,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-2',
-    name: 'Fatimah Patty, S.Pd.',
+    name: 'Ny.Djuminah Lewenussa, S.Pd.',
     nip: '19810815 200604 2 018',
     nuptk: '4532759660300013',
     role: 'Guru Kelas I (Koordinator Kurikulum)',
@@ -656,7 +656,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-4',
-    name: 'Ahmad Lestaluhu, S.Pd.I',
+    name: 'Ny.Sitti Kalsum Lestaluhu,S.Ag',
     nip: '19861105 201101 1 007',
     nuptk: '8953764665200003',
     role: 'Guru Pendidikan Agama Islam (PAI)',
@@ -669,7 +669,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-5',
-    name: 'Johanis Huliselan, S.Pd.',
+    name: 'Norma Rahareng, S.Pd.',
     nip: '19890414 201503 1 002',
     nuptk: '1246767668200012',
     role: 'Guru PJOK & Pembina Olahraga',
@@ -682,7 +682,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-6',
-    name: 'Halima Tuharea, S.Pd.',
+    name: 'Ny.Roslina Laitupa, S.Pd.',
     nip: '19870618 201402 2 004',
     nuptk: '5639765666300022',
     role: 'Guru Kelas VI (Koord. Persiapan ANBK)',
@@ -905,7 +905,7 @@ Acara dibuka secara resmi oleh perwakilan Komite Sekolah dan dihadiri oleh para 
     content: `Perpustakaan SDN 305 bersama dewan guru resmi mencanangkan Gerakan Literasi Sekolah (GLS) semester genap. Setiap pagi pukul 07.15 WIT, seluruh peserta didik meluangkan waktu 15 menit untuk membaca buku cerita, sains bergambar, atau ensiklopedia anak yang tersedia di sudut baca kelas.
 
 Inisiatif ini dirancang guna mendukung pencapaian indikator literasi membaca pada Standar Mutu Lulusan IASP BAN-S/M.`,
-    imageUrl: 'https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'src/assets/kegiatan3.jpeg',
     isImportant: false
   }
 ];
