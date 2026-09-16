@@ -625,7 +625,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     certificationStatus: 'Tersertifikasi',
     gender: 'Laki-laki',
     assignedClass: 'Manajemen Satuan Pendidikan',
-    phone: '0812-4758-XXXX',
+    phone: '081247435834',
     achievements: ['-'],
     photoUrl: 'https://drive.google.com/file/d/1BtQlksw5Ds8z1nj668o6cVh-mFw9JkcW/view?usp=drive_link'
   },
