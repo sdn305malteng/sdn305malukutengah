@@ -131,7 +131,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MUT-01/2026',
     documentTitle: 'Portofolio Kedisiplinan Siswa SDN 305 Maluku Tengah',
-    documentLink: 'https://drive.google.com/drive/folders/sdn305-disiplin-sample',
+    documentLink: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7F8T8H3cR0YLE4x_78_OtntIYb-Px8Vkgww2b6XNjeUt0vgIb3gEXboE98TP71RdHMwmedu-3-0nGp4Pgpvv_VzUL_W_XEE3kp4KggnVdGl2MrT6zn7sFQq3jhmQC8VADS1dgGuHVWk8YIrEjMIbBVF7RAUuccBtzc0fNnimr2r-b4Gfiv3SbeNrztB09/w400-h225/1000242680.jpg',
     personInCharge: 'Ibu Patmah Saimia, S.Pd. (Koord. Kesiswaan)',
     notes: 'Sudah diverifikasi pengawas pembina. Lengkap dengan rekap absensi fingerprint/manual 2 semester terakhir.',
     lastUpdated: '2026-03-10'
