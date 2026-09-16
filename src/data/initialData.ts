@@ -10,7 +10,7 @@ import {
 
 export const INITIAL_SCHOOL_PROFILE: SchoolProfile = {
   name: 'SD Negeri 305 Maluku Tengah',
-  npsn: '60100305',
+  npsn: '60103467',
   nss: '101250100305',
   status: 'Negeri',
   accreditationGrade: 'A',
