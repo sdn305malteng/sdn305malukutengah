@@ -153,7 +153,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     documentNumber: 'DOC-MUT-02/2026',
     documentTitle: 'Dokumen Pembiasaan Religius & Moderasi Beragama',
     documentLink: 'https://drive.google.com/drive/folders/sdn305-religius',
-    personInCharge: 'Bpk. Ahmad Lestaluhu, S.Pd.I (Guru PAI)',
+    personInCharge: 'Ny. Sitti Kalsum Lestaluhu,S.Ag (Guru PAI)',
     notes: 'Kearifan lokal "Pela Gandong" di Maluku diintegrasikan dalam budaya toleransi siswa.',
     lastUpdated: '2026-03-12'
   },
@@ -172,7 +172,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-MUT-03/2026',
     documentTitle: 'Dokumen Portofolio Karya dan Jurnal Tanggung Jawab Siswa',
-    personInCharge: 'Ibu Maryam Tuasalamony, S.Pd. (Guru Kelas IV)',
+    personInCharge: 'Ibu Roslina Laitupa, S.Pd. (Guru Kelas VI)',
     notes: 'Perlu penambahan beberapa foto hasil karya proyek P5 bertema kearifan lokal.',
     lastUpdated: '2026-03-11'
   },
@@ -193,7 +193,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     documentNumber: 'SK-TPPK/421.2/012/2025',
     documentTitle: 'SK TPPK dan Panduan Sekolah Ramah Anak SDN 305',
     documentLink: 'https://kemdikbud.go.id/tppk/sdn305-malteng',
-    personInCharge: 'Ibu Wa Ode Salma, S.Pd. (Koord. Konseling/Wali Kelas)',
+    personInCharge: 'Ibu Djuminah Lewenussa, S.Pd. (Koord. Konseling/Wali Kelas I)',
     notes: 'Sudah terdaftar resmi di portal TPPK Kemendikbudristek.',
     lastUpdated: '2026-03-08'
   },
@@ -212,7 +212,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-MUT-05/2026',
     documentTitle: 'Kumpulan Bukti Presentasi dan Unjuk Kerja Siswa',
-    personInCharge: 'Bpk. Ridwan Sahupala, S.Pd. (Guru Kelas V)',
+    personInCharge: 'Bpk. Rusli Lussy, S.Pd. (Guru Kelas VI)',
     notes: 'Masih perlu mengumpulkan video rekaman saat siswa presentasi modul IPAS.',
     lastUpdated: '2026-03-14'
   },
@@ -231,8 +231,8 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MUT-06/2026',
     documentTitle: 'Dokumentasi Kolaborasi dan Prestasi Regu Siswa',
-    personInCharge: 'Bpk. Johanis Huliselan, S.Pd. (Guru PJOK)',
-    notes: 'Tim tari Lenso SDN 305 meraih juara 2 tingkat kecamatan.',
+    personInCharge: 'Sarifa Sehat Assagaf, S.Pd. (Guru Seni Budaya dan Prakarya)',
+    notes: 'Tim tari Samra Wandan SDN 305 meraih juara 2 tingkat kecamatan.',
     lastUpdated: '2026-03-05'
   },
   {
@@ -250,7 +250,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-MUT-07/2026',
     documentTitle: 'Berkas Portofolio HOTS & Capaian ANBK',
-    personInCharge: 'Ibu Halima Tuharea, S.Pd. (Guru Kelas VI)',
+    personInCharge: 'Ibu Roslina Laitupa, S.Pd. (Guru Kelas VI)',
     notes: 'Skor ANBK SDN 305 tahun terakhir mengalami peningkatan 14% pada numerasi.',
     lastUpdated: '2026-03-09'
   },
@@ -270,7 +270,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MUT-08/2026',
     documentTitle: 'Gerakan Literasi Sekolah (GLS) SDN 305 Maluku Tengah',
-    personInCharge: 'Ibu Nurbaya Ohorella, A.Ma. (Kepala Perpustakaan)',
+    personInCharge: 'Ibu Sitti Kalsum Lestaluhu, S.Ag. (Kepala Perpustakaan)',
     notes: 'Pojok baca di semua 6 rombel telah aktif dan diperbarui tiap bulan.',
     lastUpdated: '2026-03-12'
   },
@@ -281,7 +281,6 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     title: 'Prestasi Akademik dan Non-Akademik Peserta Didik',
     indicator: 'Siswa meraih prestasi di tingkat gugus, kecamatan, kabupaten, atau provinsi.',
     requiredDocuments: [
-      'Buku Catatan Prestasi Siswa 3 Tahun Terakhir',
       'Fotokopi Sertifikat/Piagam Kejuaraan O2SN, FLS2N, KSN',
       'Dokumentasi Foto Piala dan Penyerahan Penghargaan'
     ],
@@ -289,7 +288,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MUT-09/2026',
     documentTitle: 'Buku Induk Rekap Prestasi dan Sertifikat Siswa',
-    personInCharge: 'Drs. Rusli Latuconsina, M.Pd. & Koord. Kesiswaan',
+    personInCharge: 'Ny.Rubia Adjis, S.Pd. & Koord. Kesiswaan',
     notes: 'Memiliki 8 piagam tingkat kabupaten dan 12 piagam tingkat kecamatan.',
     lastUpdated: '2026-03-01'
   },
@@ -308,7 +307,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-MUT-10/2026',
     documentTitle: 'Laporan Survei Kepuasan Pemangku Kepentingan SDN 305',
-    personInCharge: 'Bpk. Salim Wakano, S.Pd. (Ketua Tim Akreditasi)',
+    personInCharge: 'Ibu Fauzia Tuarita, S.Pd. (Ketua Tim Akreditasi)',
     notes: 'Angket tahun ajaran berjalan baru terkumpul 78 responden, ditargetkan minimal 100 orang tua.',
     lastUpdated: '2026-03-14'
   },
@@ -330,7 +329,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-PROS-01/2026',
     documentTitle: 'Bundel Modul Ajar & Perangkat Pembelajaran Semester Ganjil/Genap',
-    personInCharge: 'Ibu Maryam Tuasalamony, S.Pd.',
+    personInCharge: 'Ibu Patmah Saimima, S.Pd.& Ibu Maimuna Renleew,S.Pd',
     notes: 'Seluruh guru kelas sudah mengunggah modul ajar ke drive bersama sekolah.',
     lastUpdated: '2026-03-10'
   },
@@ -349,7 +348,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-PROS-02/2026',
     documentTitle: 'Logbook Penggunaan TIK & Media Interaktif KBM',
-    personInCharge: 'Bpk. Faisal Marasabessy, S.Kom. (Operator & Teknisi TIK)',
+    personInCharge: 'Wa Fivin Djufry & Bpk.Rusli Lussy,S.Pd. (Operator & Teknisi TIK)',
     notes: 'Sekolah memiliki 15 unit Chromebook aktif yang dimanfaatkan bergantian.',
     lastUpdated: '2026-03-11'
   },
@@ -369,7 +368,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-PROS-03/2026',
     documentTitle: 'Dokumen Asesmen Pembelajaran & Kisi-kisi Evaluasi Siswa',
-    personInCharge: 'Ibu Fatimah Patty, S.Pd.',
+    personInCharge: 'Ibu Djuminah Lewenussa, S.Pd.',
     notes: 'Rubrik penilaian proyek P5 telah dilengkapi asesmen diri siswa.',
     lastUpdated: '2026-03-07'
   },
@@ -388,7 +387,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-PROS-04/2026',
     documentTitle: 'Berkas Remedial & Pengayaan Semester Ganjil',
-    personInCharge: 'Bpk. Ridwan Sahupala, S.Pd.',
+    personInCharge: 'Ibu Fauzia TUarita, S.Pd.',
     notes: 'Catatan bimbingan untuk kelas 2 dan 3 perlu dirapikan dalam format tabel resmi.',
     lastUpdated: '2026-03-13'
   },
@@ -407,7 +406,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-PROS-05/2026',
     documentTitle: 'Panduan Keyakinan Kelas & Manajemen Lingkungan Belajar',
-    personInCharge: 'Ibu Halima Tuharea, S.Pd.',
+    personInCharge: 'William Mainassy. dan Muh Alfy Kelian',
     notes: 'Keyakinan kelas telah terpasang di dinding kelas I s.d. VI.',
     lastUpdated: '2026-03-09'
   },
@@ -429,7 +428,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-GUR-01/2026',
     documentTitle: 'Laporan Supervisi Akademik & Jurnal Refleksi Pendidik',
-    personInCharge: 'Drs. Rusli Latuconsina, M.Pd. (Kepala Sekolah)',
+    personInCharge: 'Ny.Uming Kalsum Kaplale, S.Pd. (Kepala Sekolah)',
     notes: 'Supervisi klinis semester lalu terlaksana 100% untuk 11 guru.',
     lastUpdated: '2026-03-12'
   },
@@ -449,7 +448,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-GUR-02/2026',
     documentTitle: 'Portofolio Pengembangan Diri & Sertifikat Pelatihan Guru',
-    personInCharge: 'Ibu Fatimah Patty, S.Pd. (Ketua Kombel)',
+    personInCharge: 'Ibu Fauzia Tuarita, S.Pd. (Ketua Kombel)',
     notes: '80% guru telah memperoleh sertifikat topik kurikulum merdeka di PMM.',
     lastUpdated: '2026-03-10'
   },
@@ -468,7 +467,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 3,
     documentNumber: 'DOC-GUR-03/2026',
     documentTitle: 'Dokumentasi Karya Inovasi Media Ajar Pendidik',
-    personInCharge: 'Bpk. Johanis Huliselan, S.Pd.',
+    personInCharge: 'Bpk. Rusli Lussy, S.Pd.& Bpk.William Mainassy',
     notes: 'Perlu menyusun deskripsi tertulis narasi inovasi untuk 3 alat peraga matematika dan IPA.',
     lastUpdated: '2026-03-14'
   },
@@ -487,7 +486,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 2,
     documentNumber: 'DOC-GUR-04/2026',
     documentTitle: 'Kumpulan Naskah Best Practice Pembelajaran',
-    personInCharge: 'Ibu Maryam Tuasalamony, S.Pd.',
+    personInCharge: 'Ibu Nurlaila Buano, S.Pd.',
     notes: 'Sedang disusun oleh tim guru kelas 1 dan kelas 4. Target selesai akhir bulan ini.',
     lastUpdated: '2026-03-15'
   },
@@ -509,7 +508,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-01/2026',
     documentTitle: 'Dokumen RKS & RKAS Resmi SDN 305 Maluku Tengah',
-    personInCharge: 'Drs. Rusli Latuconsina, M.Pd. & Bpk. Salim Wakano, S.Pd.',
+    personInCharge: 'Ny.Uming Kalsum Kaplale,S.Pd. & Ibu Roslina Laitupa, S.Pd.',
     notes: 'Telah disetujui Dinas Pendidikan dan Kebudayaan Kabupaten Maluku Tengah.',
     lastUpdated: '2026-03-02'
   },
@@ -529,7 +528,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-02/2026',
     documentTitle: 'Buku Pedoman Tata Kelola & Struktur Organisasi Sekolah',
-    personInCharge: 'Drs. Rusli Latuconsina, M.Pd.',
+    personInCharge: 'Ny.Uming Kalsum,S.Pd.',
     notes: 'Bagan struktur terpampang di ruang kepala sekolah dan kantor guru.',
     lastUpdated: '2026-03-06'
   },
@@ -549,7 +548,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-03/2026',
     documentTitle: 'KOSP SDN 305 Maluku Tengah TA 2025/2026',
-    personInCharge: 'Ibu Fatimah Patty, S.Pd. (Koord. Kurikulum)',
+    personInCharge: 'Ibu Fauzia Tuarita, S.Pd. (Koord. Kurikulum)',
     notes: 'Sudah disahkan dan ditandatangani Kepala Dinas Pendidikan Maluku Tengah.',
     lastUpdated: '2026-03-01'
   },
@@ -569,7 +568,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-04/2026',
     documentTitle: 'Buku Inventaris Sarpras & Program Pemeliharaan Gedung',
-    personInCharge: 'Bpk. Faisal Marasabessy, S.Kom. (Pengelola Sarpras)',
+    personInCharge: 'Bpk. William Mainassy & Muh Alfy Kelian. (Pengelola Sarpras)',
     notes: 'Seluruh aset sekolah berlabel barcode inventaris dinas.',
     lastUpdated: '2026-03-08'
   },
