@@ -841,7 +841,7 @@ export const INITIAL_FACILITIES: Facility[] = [
     areaSqm: 120,
     meetsPermendikbud: true,
     notes: 'Area budidaya tanaman obat keluarga (TOGA), sayuran hidroponik, dan gazebo belajar luar kelas (outdoor learning).',
-    photoUrl: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&q=80&w=600'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Wdxbe01ZMRU_J-CoyLauwn8vfIc25cCV_Yt6nHYycghf3-eorRgza4-_ypbcyC8UoCUAOIS2jw8uxO_qRE8ngLNOxAs2wcsBiHMNdfYoQ51nL4BkGlYKrHZ-Xy8Zq34c1VouhF5k352IbTFqUo-FvaoDgMTgWGS13C7B9JggnJcfBpy273BZQG9LHa2e/s4080/IMG_20240111_093821.jpg'
   }
 ];
 
