@@ -863,7 +863,7 @@ Rapat ini memetakan kelengkapan 35 butir instrumen IASP yang mencakup:
 4. Manajemen Sekolah (Ketua: Ny.Uming Kalsum Kaplale, S.Pd.)
 
 Kepala Sekolah menegaskan komitmen seluruh dewan guru untuk menyajikan data otentik dan portofolio terbaik demi mempertahankan serta meningkatkan akreditasi sekolah menuju predikat A (Unggul).`,
-    imageUrl: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'src/assets/Kep_Nur.jpeg',
     isImportant: true
   },
   {
@@ -877,7 +877,7 @@ Kepala Sekolah menegaskan komitmen seluruh dewan guru untuk menyajikan data oten
     content: `Sebanyak 30 siswa kelas V terpilih sebagai sampel Asesmen Nasional Berbasis Komputer (ANBK) tahun 2026 telah tuntas melaksanakan simulasi literasi dan numerasi di ruang laboratorium komputer SDN 305 Maluku Tengah.
 
 Kegiatan berjalan lancar berkat dukungan jaringan internet berkecepatan tinggi serta pendampingan proktor dan teknisi sekolah. Asesmen ini menjadi instrumen penting dalam memotret Rapor Pendidikan SDN 305 pada sub-indikator Mutu Lulusan dan Iklim Belajar.`,
-    imageUrl: 'https://drive.google.com/file/d/1wJFjIGWJBRku1oVsAjE9jSkDhOnM1KP-/view?usp=drive_link',
+    imageUrl: 'https://blogger.googleusercontent.com/img/a/AVvXsEiSbW_Svxa3-j9CMJSwrV6KYhWxf9-nWvwNaa0ZhTiR1OH11Afe4M3zhdInkdKX7_Xtxt097CF-12DQbvLS3sYaJP6BYS57ZkLkDitJAlMm6j3im7bpTPzYZIsSKEz8WOHUbSG9yCG0B6_hUvi84yngkIJjwcIoAxTjzTs786ZNvfwrUycluVq5qI6O5kfa',
     isImportant: false
   },
   {
@@ -891,7 +891,7 @@ Kegiatan berjalan lancar berkat dukungan jaringan internet berkecepatan tinggi s
     content: `Halaman upacara SDN 305 Maluku Tengah semarak dengan perhelatan Gelar Karya Projek Penguatan Profil Pelajar Pancasila (P5). Para siswa dari kelas I hingga VI memamerkan aneka hasil olahan karya orisinil mereka.
 
 Acara dibuka secara resmi oleh perwakilan Komite Sekolah dan dihadiri oleh para orang tua murid. Melalui proyek ini, peserta didik tidak hanya diasah keterampilan kreativitas dan kolaborasinya, namun juga ditanamkan rasa bangga terhadap warisan luhur tanah Maluku.`,
-    imageUrl: 'https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4bbrsx1cMMczT0Qiv9zYhF-3US3X8BF-TgsMpp-PuBR8AVthaK1pdJu3UREKqYa5j-bfpn2-c7QPeGSi3LqcnNFiY2gZzsM3gtmFdP3QtY6SmMlm4GMDHxpmh3O-yCyWPSzifqSzjb3FwF6n8iEDMrfM4XwYOqV5ny_b-qU2rC0mo_wVcf6iGvbbNd_cU/s4000/1000237784.jpg',
     isImportant: false
   },
   {
