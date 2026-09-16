@@ -1,0 +1,8 @@
+{
+  "name": "SDN 305 Maluku Tengah",
+  "description": "Website resmi dan portal manajemen akreditasi SDN 305 Maluku Tengah untuk persiapan akreditasi BAN-S/M IASP, pengelolaan profil sekolah, data guru, sarpras, dan bukti fisik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
