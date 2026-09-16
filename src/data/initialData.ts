@@ -132,7 +132,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     documentNumber: 'DOC-MUT-01/2026',
     documentTitle: 'Portofolio Kedisiplinan Siswa SDN 305 Maluku Tengah',
     documentLink: 'https://drive.google.com/drive/folders/sdn305-disiplin-sample',
-    personInCharge: 'Ibu Fatimah Patty, S.Pd. (Koord. Kesiswaan)',
+    personInCharge: 'Ibu Patmah Saimia, S.Pd. (Koord. Kesiswaan)',
     notes: 'Sudah diverifikasi pengawas pembina. Lengkap dengan rekap absensi fingerprint/manual 2 semester terakhir.',
     lastUpdated: '2026-03-10'
   },
@@ -694,59 +694,59 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-7',
-    name: 'Ridwan Sahupala, S.Pd.',
+    name: 'Ny.Fauzia Tuarita, S.Pd.',
     nip: '19920210 201903 1 011',
     nuptk: '3448770671130083',
     role: 'Guru Kelas V',
-    education: 'S1 PGSD Universitas Negeri',
-    certificationStatus: 'Dalam Proses',
-    gender: 'Laki-laki',
+    education: 'S1 PGSD ',
+    certificationStatus: 'Tersertifikasi',
+    gender: 'Perempuan',
     assignedClass: 'Kelas 5 (Fase C)',
-    photoUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://drive.google.com/file/d/1BtQlksw5Ds8z1nj668o6cVh-mFw9JkcW/view?usp=sharing'
   },
   {
     id: 't-8',
-    name: 'Wa Ode Salma, S.Pd.',
+    name: 'Patmah Saimima,S.Pd.',
     nip: '19940925 202012 2 015',
     nuptk: '7851772673230042',
     role: 'Guru Kelas II & Pembina UKS',
     education: 'S1 PGSD',
-    certificationStatus: 'Dalam Proses',
+    certificationStatus: 'Tersertifikas',
     gender: 'Perempuan',
     assignedClass: 'Kelas 2 (Fase A)',
     photoUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400'
   },
   {
     id: 't-9',
-    name: 'Salim Wakano, S.Pd.',
+    name: 'Ny.Sarifah Sehat Assagaf,S.Pd.',
     nip: '19830704 200801 1 012',
     nuptk: '9045761663200033',
-    role: 'Guru Kelas III & Ketua Tim Akreditasi',
+    role: 'Guru Kelas III',
     education: 'S1 PGSD',
     certificationStatus: 'Tersertifikasi',
-    gender: 'Laki-laki',
+    gender: 'Perempuan',
     assignedClass: 'Kelas 3 (Fase B)',
     photoUrl: 'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&q=80&w=400'
   },
   {
     id: 't-10',
-    name: 'Faisal Marasabessy, S.Kom.',
+    name: 'Wa Fivin Djufry.',
     nip: '19951201 202203 1 005',
     nuptk: '2153773674130092',
     role: 'Operator Dapodik & Pengelola TIK / Sarpras',
-    education: 'S1 Sistem Informasi',
+    education: 'S1 ',
     certificationStatus: 'Belum',
-    gender: 'Laki-laki',
+    gender: 'Perempuan',
     assignedClass: 'Administrasi & Lab Komputer',
     photoUrl: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400'
   },
   {
     id: 't-11',
-    name: 'Nurbaya Ohorella, A.Ma.',
+    name: 'Ibu Sitti Kalsum Lestaluhu,S.Ag.',
     nip: '19850110 201001 2 021',
     nuptk: '4351763665300012',
-    role: 'Kepala Perpustakaan & Bendahara BOS',
-    education: 'D3 Perpustakaan & Ilmu Informasi',
+    role: 'Kepala Perpustakaan ',
+    education: 'S1 PAI',
     certificationStatus: 'Tersertifikasi',
     gender: 'Perempuan',
     assignedClass: 'Perpustakaan Sekolah',
@@ -877,7 +877,7 @@ Kepala Sekolah menegaskan komitmen seluruh dewan guru untuk menyajikan data oten
     content: `Sebanyak 30 siswa kelas V terpilih sebagai sampel Asesmen Nasional Berbasis Komputer (ANBK) tahun 2026 telah tuntas melaksanakan simulasi literasi dan numerasi di ruang laboratorium komputer SDN 305 Maluku Tengah.
 
 Kegiatan berjalan lancar berkat dukungan jaringan internet berkecepatan tinggi serta pendampingan proktor dan teknisi sekolah. Asesmen ini menjadi instrumen penting dalam memotret Rapor Pendidikan SDN 305 pada sub-indikator Mutu Lulusan dan Iklim Belajar.`,
-    imageUrl: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'https://drive.google.com/file/d/1wJFjIGWJBRku1oVsAjE9jSkDhOnM1KP-/view?usp=drive_link',
     isImportant: false
   },
   {
