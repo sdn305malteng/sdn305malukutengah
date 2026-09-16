@@ -105,7 +105,7 @@ app.post("/api/ai/generate-instrument-draft", async (req, res) => {
         draft: `PEMERINTAH KABUPATEN MALUKU TENGAH
 DINAS PENDIDIKAN DAN KEBUDAYAAN
 SD NEGERI 305 MALUKU TENGAH
-Alamat: Jl. Pendidikan No. 1, Kab. Maluku Tengah, Maluku
+Alamat: Jl. Nuri Kab. Maluku Tengah, Maluku
 
 SURAT KEPUTUSAN KEPALA SD NEGERI 305 MALUKU TENGAH
 Nomor: 421.2/045/SDN.305/2026
