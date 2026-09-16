@@ -57,7 +57,7 @@ export const NewsSection: React.FC<NewsSectionProps> = ({ news, onOpenAdmin }) =
               <div>
                 <div className="relative h-44 bg-slate-100 overflow-hidden">
                   <img
-                    src={item.imageUrl || 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=800'}
+                    src={item.imageUrl || '/src/assets/Kegiatan1.jpeg'}
                     alt={item.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     referrerPolicy="no-referrer"
