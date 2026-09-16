@@ -644,7 +644,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
   },
   {
     id: 't-3',
-    name: 'Maryam Tuasalamony, S.Pd.',
+    name: 'Ibu Nurlaila Buano, S.Pd.',
     nip: '19840320 200902 2 009',
     nuptk: '6741762664300021',
     role: 'Guru Kelas IV (Koordinator P5)',
@@ -678,7 +678,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     gender: 'Laki-laki',
     assignedClass: 'Semua Kelas (I - VI)',
     achievements: ['Pelatih Atletik Juara O2SN Kab. Maluku Tengah'],
-    photoUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/a/AVvXsEhBuFGpMnGim9MNTp7rC_J10nT4rc0mBNapkjWyJMVMpTsG9N7Yv5pT-bR81H9tWnaXWDrzOl8DZ_1sRX2FtBQBwA8hSPpwTkF9xPjoGFl0hc0TjHlesYYXSI_E_QythPz_DEOOX69pP2vxh-rYZgVOUKuTorVC7Ipbcf6VPrlJNEH5lB2fW7ZqHlMTe3zo'
   },
   {
     id: 't-6',
