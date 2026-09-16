@@ -618,7 +618,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
 export const INITIAL_TEACHERS: Teacher[] = [
   {
     id: 't-1',
-    name: 'Drs. Rusli Latuconsina, M.Pd.',
+    name: 'Ny.Uming Kalsum Kaplale,S.Pd.',
     nip: '19740512 199803 1 004',
     nuptk: '3442752654200022',
     role: 'Kepala Sekolah',
