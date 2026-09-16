@@ -912,7 +912,7 @@ Inisiatif ini dirancang guna mendukung pencapaian indikator literasi membaca pad
 ];
 
 export const INITIAL_STUDENT_COHORTS: StudentCohort[] = [
-  { grade: 'Kelas I', classes: 1, male: 12, female: 16, total: 30 },
+  { grade: 'Kelas I', classes: 1, male: 12, female: 16, total: 28 },
   { grade: 'Kelas II', classes: 1, male: 15, female: 13, total: 28 },
   { grade: 'Kelas III', classes: 1, male: 16, female: 17, total: 33 },
   { grade: 'Kelas IV', classes: 1, male: 15, female: 15, total: 30 },
