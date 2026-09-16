@@ -17,14 +17,14 @@ export const INITIAL_SCHOOL_PROFILE: SchoolProfile = {
   accreditationScore: 89,
   accreditationYear: 2021,
   nextAccreditationYear: 2026,
-  curriculum: 'Kurikulum Merdeka Mandiri Berbagi',
+  curriculum: 'Kurikulum Merdeka',
   address: 'Jl. Nuri RT.14',
   village: 'Kel.Namaelo / Masohi',
   district: 'Masohi',
   regency: 'Kabupaten Maluku Tengah',
   province: 'Maluku',
   postalCode: '97511',
-  email: 'sdn305malteng@kemdikbud.go.id',
+  email: 'sdn14masohi@gmail.com',
   phone: '(0914) 21305',
   headmasterName: 'Ny. Uming Kalsum Kaplale,S.Pd.',
   headmasterNip: '19740512 199803 1 004',
@@ -39,7 +39,7 @@ export const INITIAL_SCHOOL_PROFILE: SchoolProfile = {
     'Menciptakan lingkungan sekolah yang bersih, sehat, ramah anak, dan bebas dari segala bentuk kekerasan atau perundungan.'
   ],
   goals: [
-    'Mencapai predikat Akreditasi A (Unggul) pada visitasi BAN-S/M mendatang.',
+    'Mencapai predikat Akreditasi B+ pada visitasi BAN-S/M mendatang.',
     'Meningkatkan rata-rata capaian literasi dan numerasi Asesmen Nasional (ANBK) di atas standar nasional.',
     'Seluruh guru menguasai pemanfaatan Platform Merdeka Mengajar (PMM) dan media ajar interaktif.',
     'Memperkuat keterlibatan komite sekolah dan masyarakat dalam pemeliharaan lingkungan belajar aman.'
