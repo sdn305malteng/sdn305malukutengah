@@ -627,7 +627,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     assignedClass: 'Manajemen Satuan Pendidikan',
     phone: '0812-4758-XXXX',
     achievements: ['-'],
-    photoUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://drive.google.com/file/d/1BtQlksw5Ds8z1nj668o6cVh-mFw9JkcW/view?usp=drive_link'
   },
   {
     id: 't-2',
