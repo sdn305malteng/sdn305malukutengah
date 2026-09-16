@@ -18,15 +18,15 @@ export const INITIAL_SCHOOL_PROFILE: SchoolProfile = {
   accreditationYear: 2021,
   nextAccreditationYear: 2026,
   curriculum: 'Kurikulum Merdeka Mandiri Berbagi',
-  address: 'Jl. Trans Seram - Pendidikan No. 12',
-  village: 'Negeri Sepa / Masohi',
-  district: 'Amahai',
+  address: 'Jl. Nuri RT.14',
+  village: 'Kel.Namaelo / Masohi',
+  district: 'Masohi',
   regency: 'Kabupaten Maluku Tengah',
   province: 'Maluku',
-  postalCode: '97516',
+  postalCode: '97511',
   email: 'sdn305malteng@kemdikbud.go.id',
   phone: '(0914) 21305',
-  headmasterName: 'Drs. Rusli Latuconsina, M.Pd.',
+  headmasterName: 'Ny. Uming Kalsum Kaplale,S.Pd.',
   headmasterNip: '19740512 199803 1 004',
   headmasterSpeech: 'Selamat datang di Portal Resmi SD Negeri 305 Maluku Tengah. Sebagai satuan pendidikan di bumi Pamahanunusa, kami bertekad menghadirkan ekosistem pembelajaran yang inklusif, berakar pada kearifan budaya Maluku, dan adaptif terhadap kecakapan abad ke-21. Menyongsong visitasi akreditasi sekolah BAN-S/M, portal ini didedikasikan untuk transparansi mutu pendidikan, akuntabilitas bukti fisik, dan sinergi pendidik serta orang tua.',
   vision: 'Terwujudnya Peserta Didik yang Beriman, Bertakwa, Berakhlak Mulia, Cerdas, Terampil, dan Berwawasan Lingkungan serta Berpijak pada Budaya Maluku.',
@@ -589,7 +589,7 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-05/2026',
     documentTitle: 'Laporan Pertanggungjawaban Dana BOS Reguler 2025',
-    personInCharge: 'Ibu Nurbaya Ohorella (Bendahara BOS)',
+    personInCharge: 'Ibu Roslina Laitupa,S.Pd (Bendahara BOS)',
     notes: 'Laporan BKU BOS telah diverifikasi dan bebas temuan.',
     lastUpdated: '2026-03-11'
   },
@@ -609,8 +609,8 @@ export const INITIAL_ACCREDITATION_ITEMS: AccreditationItem[] = [
     scoreLevel: 4,
     documentNumber: 'DOC-MAN-06/2026',
     documentTitle: 'Bundel MoU Kemitraan Strategis SDN 305',
-    personInCharge: 'Bpk. Salim Wakano, S.Pd.',
-    notes: 'MoU terbaru dengan Puskesmas Amahai/Masohi dan Sanggar Seni Maluku aktif berjalan.',
+    personInCharge: 'Ibu Nurlaila Buano, S.Pd.',
+    notes: 'MoU terbaru dengan Puskesmas Letwaru/Masohi.',
     lastUpdated: '2026-03-04'
   }
 ];
@@ -622,12 +622,12 @@ export const INITIAL_TEACHERS: Teacher[] = [
     nip: '19740512 199803 1 004',
     nuptk: '3442752654200022',
     role: 'Kepala Sekolah',
-    education: 'S2 Magister Manajemen Pendidikan',
+    education: 'S1 PGSD',
     certificationStatus: 'Tersertifikasi',
     gender: 'Laki-laki',
     assignedClass: 'Manajemen Satuan Pendidikan',
     phone: '0812-4758-XXXX',
-    achievements: ['Kepala Sekolah Berprestasi Tingkat Kab. Maluku Tengah', 'Asesor Guru Penggerak'],
+    achievements: ['-'],
     photoUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400'
   },
   {
@@ -858,10 +858,10 @@ export const INITIAL_NEWS: NewsItem[] = [
     content: `Dalam rangka menyongsong agenda visitasi akreditasi satuan pendidikan oleh Badan Akreditasi Nasional Sekolah/Madrasah (BAN-S/M), SDN 305 Maluku Tengah menyelenggarakan Rapat Kerja Khusus Akreditasi yang dipimpin langsung oleh Kepala Sekolah Drs. Rusli Latuconsina, M.Pd. dan didampingi Pengawas Pembina Dinas Pendidikan dan Kebudayaan Kabupaten Maluku Tengah.
 
 Rapat ini memetakan kelengkapan 35 butir instrumen IASP yang mencakup:
-1. Mutu Lulusan (Ketua: Ibu Fatimah Patty, S.Pd.)
-2. Proses Pembelajaran (Ketua: Ibu Maryam Tuasalamony, S.Pd.)
-3. Mutu Guru (Ketua: Bpk. Johanis Huliselan, S.Pd.)
-4. Manajemen Sekolah (Ketua: Bpk. Salim Wakano, S.Pd.)
+1. Mutu Lulusan (Ketua: Ibu Roslina Laitupa, S.Pd.)
+2. Proses Pembelajaran (Ketua: Ibu Patmah Saimima, S.Pd.)
+3. Mutu Guru (Ketua: Ibu Fauzia Tuarita, S.Pd.)
+4. Manajemen Sekolah (Ketua: Ny.Uming Kalsum Kaplale, S.Pd.)
 
 Kepala Sekolah menegaskan komitmen seluruh dewan guru untuk menyajikan data otentik dan portofolio terbaik demi mempertahankan serta meningkatkan akreditasi sekolah menuju predikat A (Unggul).`,
     imageUrl: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=800',
@@ -912,7 +912,7 @@ Inisiatif ini dirancang guna mendukung pencapaian indikator literasi membaca pad
 ];
 
 export const INITIAL_STUDENT_COHORTS: StudentCohort[] = [
-  { grade: 'Kelas I', classes: 1, male: 14, female: 16, total: 30 },
+  { grade: 'Kelas I', classes: 1, male: 12, female: 16, total: 30 },
   { grade: 'Kelas II', classes: 1, male: 15, female: 13, total: 28 },
   { grade: 'Kelas III', classes: 1, male: 16, female: 17, total: 33 },
   { grade: 'Kelas IV', classes: 1, male: 15, female: 15, total: 30 },
