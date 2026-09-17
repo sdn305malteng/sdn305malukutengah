@@ -128,7 +128,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center space-x-3">
             <button
               onClick={onOpenAdmin}
-              className={`inline-flex items-center space-x-2 px-4 py-2.5 rounded-lg text-sm font-bold shadow-xs transition-all duration-200 ${
+              className={`relative z-20 inline-flex items-center space-x-2 px-4 py-2.5 rounded-lg text-sm font-bold shadow-xs transition-all duration-200 ${
                 isAdminLoggedIn
                   ? 'bg-emerald-600 hover:bg-emerald-700 text-white ring-2 ring-emerald-500 ring-offset-2'
                   : 'bg-slate-900 hover:bg-slate-800 text-white hover:shadow-md'
