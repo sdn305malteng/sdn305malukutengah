@@ -627,7 +627,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     assignedClass: 'Manajemen Satuan Pendidikan',
     phone: '081247435834',
     achievements: ['-'],
-    photoUrl: 'https://drive.google.com/file/d/1BtQlksw5Ds8z1nj668o6cVh-mFw9JkcW/view?usp=drive_link'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzYbhMabPaTQMNhfiLqXvpbd5LafRx4S2sPrOesdzkV3Ob2Qy2Q6OZzqfxqZCnbuV6CngghDHQ58JyOpMZ2SqK0xl_x0CnPDSVe6xtdFJo070Ikcz4nSzanTpF-G63EVKi1fUpEUwZNhjNpXZ_j05euG0CbxqDqcPiGX3sMKdHAN7RgXt33Molm-BS2br/w360-h640/WhatsApp%20Image%202026-09-10%20at%2012.58.04.jpeg'
   },
   {
     id: 't-2',
@@ -640,7 +640,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     gender: 'Perempuan',
     assignedClass: 'Kelas 1 (Fase A)',
     achievements: ['Guru Penggerak Angkatan 7', 'Finalis Inovasi Pembelajaran SD'],
-    photoUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvN4j_ELtEByMhcSXfDX-HC7Zxw7KWFCgROnTsLUzrEY_k9DIcS5OcAOaMswjrjkTzB6IWv65zUD3WtlqTA49oSNdeHvTTuIRemOtdREnhR2ytlgQCEHwCwF5cxppqhyphenhyphenu75Uar3MB73dKVUTO1VF1qAOtQpbLhhD8s9mvqkoGeC5OTiy44km8EIZ0XQAIR/s1600/IMG-20260721-WA0006.jpg'
   },
   {
     id: 't-3',
@@ -652,7 +652,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     certificationStatus: 'Tersertifikasi',
     gender: 'Perempuan',
     assignedClass: 'Kelas 4 (Fase B)',
-    photoUrl: 'https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQKnBJkTL802wZWpkGfJPvRwff5xogfnoyXva-B1yM9yjMlNy9xbnI0bqbyzGv1a90DyI9heEU8X9H1n7IM1FCl-tzxOVqeetOFhBJ3frKNAJYmXpV-t4jQ5eDcjXRH0r2phyFACGY6mgahoKyL0fojkXkIjEO1Lq2W3WQglVC1-1SI4u2KRuPaSQkVyja/s1280/WhatsApp%20Image%202026-09-10%20at%2012.58.08.jpeg'
   },
   {
     id: 't-4',
@@ -665,7 +665,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     gender: 'Laki-laki',
     assignedClass: 'Semua Kelas (I - VI)',
     achievements: ['Pembina Juara 1 MTQ Pelajar Tingkat Kecamatan'],
-    photoUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLCiPdcXvsyTJ18XfgdHNn5Ru475hPNjfc8kO_aqVerfbFVCjEyPL7ZpY56OghePetbk3KdbBLeigYLI6aUDYm8Myu7CXTk90nxPiSa5MD2PZMDO9nNZPL8wZih4QUrKscNjcMD608x48sWYEQqJ7_F4B99PFT2wtC6B2qQYJey_ELqlcUv7Rd2amo9FzA/s1600/1000223392.jpg'
   },
   {
     id: 't-5',
@@ -690,7 +690,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     certificationStatus: 'Tersertifikasi',
     gender: 'Perempuan',
     assignedClass: 'Kelas 6 (Fase C)',
-    photoUrl: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWZwBE8hj4SrAznBzCe1a6HaimIIPfz-hLpWKxhcD7-NC-OPMGnpLkalid8aUJz0edkPYFO2AAD3LEJZaKSC8_E2riCwqCCvjk2wtwvaxMz-6b9LwQnRqNdFU3RpocxdwKVZCRoCOHIBG0NFoiIiyDl83Fx4sHvCReURryPPaIuB2F-Eg1KefznqlqHkja/s4032/IMG-20260911-WA0061.jpg'
   },
   {
     id: 't-7',
@@ -702,7 +702,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     certificationStatus: 'Tersertifikasi',
     gender: 'Perempuan',
     assignedClass: 'Kelas 5 (Fase C)',
-    photoUrl: 'https://drive.google.com/file/d/1BtQlksw5Ds8z1nj668o6cVh-mFw9JkcW/view?usp=sharing'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDixMFXduRAGV04U87RS2RQUcy7DDdqPblH0QGkBFcLxDNOCIN_8zwnWt5Xxt2DcQUcE1VZdF9QaBDSwTHbXCAIIuWQihDqyJbWjPaw8hbjtlzYCUaw9Bv_NJWHGEDdTU8_Ttl9v7MMJepHVp_dnHJTPvG4V-NBiEC6wh69DlXqf_nb11n_sYvECk3R-Ws/s4032/IMG-20260911-WA0056.jpg'
   },
   {
     id: 't-8',
@@ -714,7 +714,7 @@ export const INITIAL_TEACHERS: Teacher[] = [
     certificationStatus: 'Tersertifikas',
     gender: 'Perempuan',
     assignedClass: 'Kelas 2 (Fase A)',
-    photoUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400'
+    photoUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWZwBE8hj4SrAznBzCe1a6HaimIIPfz-hLpWKxhcD7-NC-OPMGnpLkalid8aUJz0edkPYFO2AAD3LEJZaKSC8_E2riCwqCCvjk2wtwvaxMz-6b9LwQnRqNdFU3RpocxdwKVZCRoCOHIBG0NFoiIiyDl83Fx4sHvCReURryPPaIuB2F-Eg1KefznqlqHkja/s4032/IMG-20260911-WA0061.jpg'
   },
   {
     id: 't-9',
@@ -775,7 +775,7 @@ export const INITIAL_FACILITIES: Facility[] = [
     areaSqm: 72,
     meetsPermendikbud: true,
     notes: 'Koleksi 2.450 judul buku, area baca lesehan berkarpet, katalog digital sederhana, dan majalah anak.',
-    photoUrl: 'https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=600'
+    photoUrl: 'https://blogger.googleusercontent.com/img/a/AVvXsEjYfvqWaQxyUhp4elo1JuH_zIvAMMfL4Jwz3qL5UlwMyVUA_0qJwxFcBJNRNQr2xagPt37PBgYssqwUd2tKGYC3l8_A4aWxE-DT2bGy4XY_W0Dhi7tpsTIKWMTX37Wx8Bhij4JQZL3ilmxkraKg3RYsZI7jUX1mwRjb0aKcQKQ3KcY27wkGf6YnpYt2fcsw'
   },
   {
     id: 'fac-3',
@@ -786,7 +786,7 @@ export const INITIAL_FACILITIES: Facility[] = [
     areaSqm: 64,
     meetsPermendikbud: true,
     notes: '15 unit Chromebook bantuan Kemdikbudristek, 1 server lokal, proyektor LCD, dan jaringan internet Wi-Fi 50 Mbps.',
-    photoUrl: 'https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=600'
+    photoUrl: 'https://blogger.googleusercontent.com/img/a/AVvXsEgB27Nyk8v9E29PuJ58vQ2n0kqLn84wmZeOrsYBjXGW16X99wapBt8ckEx90W16ZCzay0qcBkJpTgHkvNH-wSp8ItzI6uLg-7VDQYq42JA0JdasNE4GClcwGuZiG7S6HOazPbwOP5oppPzi_FRReo2lwN7nO9JFsUKotD4b6J8ozuyCzNQR-Lcx0AD5RHyM'
   },
   {
     id: 'fac-4',
